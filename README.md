@@ -9,5 +9,7 @@
 - How to debug our code in this IDE for Java https://www.youtube.com/watch?v=lAWnIP1S6UA 
 - How to work with SonarLint plugin in our IntelliJ IDEA  https://www.youtube.com/watch?v=iEW8mkfnMnQ 
 
+Ciao ciao ciao
+aaaaa
 **Testing and Coverage**
 - How to create coverage tests in our Intellij IDEA https://www.youtube.com/watch?v=QDFI19lj4OM 
