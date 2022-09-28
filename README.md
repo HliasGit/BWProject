@@ -13,3 +13,6 @@ Ciao ciao ciao
 aaaaa
 **Testing and Coverage**
 - How to create coverage tests in our Intellij IDEA https://www.youtube.com/watch?v=QDFI19lj4OM 
+
+Spring architecture
+https://www.geeksforgeeks.org/spring-boot-architecture/
